@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/index.jsp</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/SemanticTermIndexReader.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Administration%20of%20recombinant%20human%20granulocyte%20colony-stimulating%20factor%20(rhG-CSF)%20for%20the%20intracra.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Canine%20Butterfly%20Glioblastomas:%20A%20Neuroradiological%20Review.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Reduction%20of%20humeroulnar%20congenital%20elbow%20luxation%20in%208%20dogs%20by%20using%20the%20transarticular%20pin..html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Epilepsy%20after%20head%20injury%20in%20dogs:%20A%20natural%20model%20of%20posttraumatic%20epilepsy%20-%20Steinmetz%20-%202013%20-%20E.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/A%20Multiplex%20RT-PCR%20Assay%20for%20Detection%20and%20Differentiation%20of%20Avian-Origin%20Canine%20H3N2,%20Equine-Origi.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/build/generated/src/org/apache/jsp/WEB_002dINF/index_jsp.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Efficacy%20and%20Safety%20of%20a%20Permethrin-Fipronil%20Spot-On%20Solution%20(Effitix®)%20in%20Dogs%20Naturally%20Infested.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/Path.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/NaiveBayesClassifier.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/DocumentMatched.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/build/generated/src/org/apache/jsp/index_jsp.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Anti-Insulin%20Immune%20Responses%20Are%20Detectable%20in%20Dogs%20with%20Spontaneous%20Diabetes.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Surgical%20management%20of%20extensive%20oral%20tumors%20by%20bilateral%20rostral%20mandibulectomy%20in%20two%20dogs.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Clinical%20evaluation%20of%20a%20nutraceutical%20diet%20as%20an%20adjuvant%20to%20pharmacological%20treatment%20in%20dogs%20affe.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/Documents.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/data/semantic_index.txt</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/SemanticTermIndexWriter.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Case-Control%20Study%20of%20Risk%20Factors%20Associated%20with%20Feline%20and%20Canine%20Chronic%20Kidney%20Disease.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Extreme%20Beta-Cell%20Deficiency%20in%20Pancreata%20of%20Dogs%20with%20Canine%20Diabetes.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/semantic_index/semantic_index.txt</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/web/research_documents/Dogs%20Can%20Be%20Successfully%20Trained%20to%20Alert%20to%20Hypoglycemia%20Samples%20from%20Patients%20with%20Type%201%20Diabetes.html</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/QueryExpansion.java</file>
+            <file>file:/Users/master_cs_se/Desktop/Spring17/Search-Engine/final-project/SmartCanineDiseasesSearchEngine/src/java/Core/SearchEngine.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,3 @@
+pink-eyes=[treatment,1,0];[keratoconjunctiviti,1,1];[inflammatory,1,2];[nutraceutic,1,2];[nd,0,2];
+diabetes=[cell,0,0];[insulin,1,1];[diabetic,1,1];[islet,0,0];[control,0,1];[canine,1,1];[endocrine,1,1];[pancreata,1,1];[insulin,1,1];
+brain cancer=[lession,0,0];[mass,1,0];[tumor,1,1];[cerebral,1,0];[mri,1,1];[corpus,0,1];[hemisphere,1,1];[matter,1,1];[canine,1,1];
